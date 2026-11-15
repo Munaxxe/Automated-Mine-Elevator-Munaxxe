@@ -25,7 +25,7 @@ operational mine hoist.
 
 A video demonstration of the prototype will be made available here.
 
-**[Watch the project demonstration](YOUR_GOOGLE_DRIVE_VIDEO_LINK)**
+**[Watch the project demonstration](https://www.mediafire.com/file/knt19hpyx4gbfcj/automated-elevator-munaxxe.mp4/file)**
 
 ## Key Features
 
