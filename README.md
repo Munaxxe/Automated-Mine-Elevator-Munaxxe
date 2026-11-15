@@ -99,7 +99,6 @@ The control program is written in Arduino C/C++ and is provided in
 
 The source code includes the following libraries:
 
-  Library                    Purpose
   -------------------------- -------------------------------------
   `Wire.h`                   I2C communication
   `LiquidCrystal_I2C.h`      LCD interfacing
